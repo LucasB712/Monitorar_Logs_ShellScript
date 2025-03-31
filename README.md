@@ -31,3 +31,50 @@ Este projeto contém um script em **Bash** para monitoramento e processamento de
    ```bash
    git clone https://github.com/SEU_USUARIO/monitoramento-logs.git
    cd monitoramento-logs
+
+   Clone o repositório:
+
+bash
+Copiar
+git clone https://github.com/SEU_USUARIO/monitoramento-logs.git
+cd monitoramento-logs
+Configuração de diretórios: Certifique-se de que o diretório de logs (myapp/logs) exista e contenha arquivos .log para que o script funcione corretamente.
+
+Execute o script: Após garantir que os diretórios estão configurados corretamente, execute o script Bash:
+
+bash
+Copiar
+bash monitoramento_logs.sh
+O script irá processar os logs, gerar os arquivos filtrados e compactados, e armazená-los no diretório myapp/logs-processados.
+
+📂 **Estrutura de Diretórios**
+
+
+myapp/logs: Contém os arquivos de log originais.
+
+myapp/logs-processados: Onde os arquivos filtrados, únicos e combinados são armazenados, juntamente com os relatórios.
+
+myapp/logs-temp: Diretório temporário para armazenar os arquivos antes da compactação.
+
+📑 **Exemplos de Saída**
+
+
+logs_combinados_YYYY-MM-DD.log: Arquivo que contém todos os logs combinados (frontend e backend) para o dia.
+
+log_stats_YYYY-MM-DD.txt: Relatório com o número de linhas e palavras de cada arquivo de log processado.
+
+logs_YYYY-MM-DD.tar.gz: Arquivo compactado contendo os logs processados e relatórios do dia.
+
+
+🧑‍🤝‍🧑 **Contribuindo**
+Se você desejar contribuir para este projeto, siga os passos abaixo:
+
+Faça um fork deste repositório.
+
+Crie uma nova branch (git checkout -b minha-nova-feature).
+
+Realize as mudanças necessárias e faça commit (git commit -am 'Adicionando nova funcionalidade').
+
+Envie para o seu fork (git push origin minha-nova-feature).
+
+Abra um pull request para a branch principal deste repositório.
