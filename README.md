@@ -47,7 +47,7 @@ Copiar
 bash monitoramento_logs.sh
 O script irá processar os logs, gerar os arquivos filtrados e compactados, e armazená-los no diretório myapp/logs-processados.
 
-📂 **Estrutura de Diretórios**
+## 📂 **Estrutura de Diretórios**
 
 
 myapp/logs: Contém os arquivos de log originais.
@@ -56,7 +56,7 @@ myapp/logs-processados: Onde os arquivos filtrados, únicos e combinados são ar
 
 myapp/logs-temp: Diretório temporário para armazenar os arquivos antes da compactação.
 
-📑 **Exemplos de Saída**
+## 📑 **Exemplos de Saída**
 
 
 logs_combinados_YYYY-MM-DD.log: Arquivo que contém todos os logs combinados (frontend e backend) para o dia.
@@ -66,7 +66,7 @@ log_stats_YYYY-MM-DD.txt: Relatório com o número de linhas e palavras de cada 
 logs_YYYY-MM-DD.tar.gz: Arquivo compactado contendo os logs processados e relatórios do dia.
 
 
-🧑‍🤝‍🧑 **Contribuindo**
+## 🧑‍🤝‍🧑 **Contribuindo**
 Se você desejar contribuir para este projeto, siga os passos abaixo:
 
 Faça um fork deste repositório.
