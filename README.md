@@ -31,10 +31,12 @@ Este projeto contém um script em **Bash** para monitoramento e processamento de
 ## 🚀 Como Usar
 
 1. **Clone o repositório**:
+
    ```bash
    git clone https://github.com/SEU_USUARIO/monitoramento-logs.git
    cd monitoramento-logs
-
+   ```
+   
    Clone o repositório:
 
 ```bash
