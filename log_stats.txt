@@ -1,0 +1,16 @@
+Arquivo: myapp-backend.log.unico
+Número de linhas: 24
+Número de palavras: 207
+--------------------------------------
+Arquivo: myapp-frontend.log.unico
+Número de linhas: 14
+Número de palavras: 147
+--------------------------------------
+Arquivo: myapp-backend.log.unico
+Número de linhas: 24
+Número de palavras: 207
+--------------------------------------
+Arquivo: myapp-frontend.log.unico
+Número de linhas: 14
+Número de palavras: 147
+--------------------------------------
