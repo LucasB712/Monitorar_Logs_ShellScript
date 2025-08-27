@@ -45,9 +45,11 @@ Configuração de diretórios: Certifique-se de que o diretório de logs (myapp/
 
 Execute o script: Após garantir que os diretórios estão configurados corretamente, execute o script Bash:
 
-bash
+```bash
 Copiar
 bash monitoramento_logs.sh
+```
+
 O script irá processar os logs, gerar os arquivos filtrados e compactados, e armazená-los no diretório myapp/logs-processados.
 
 ## 📂 **Estrutura de Diretórios**
