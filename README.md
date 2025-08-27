@@ -3,6 +3,9 @@
 
 <img width="694" alt="image" src="https://github.com/user-attachments/assets/886a1b00-cf18-4010-883a-f2bfbfc83776" />
 
+<img width="1101" height="694" alt="image" src="https://github.com/user-attachments/assets/ae755b3f-12c3-459e-a421-304bfe9c161e" />
+
+
 
 Este projeto contém um script em **Bash** para monitoramento e processamento de logs. O objetivo do script é filtrar, anonimizar, ordenar e gerar relatórios a partir de logs de aplicação, com foco em dados sensíveis e em erros.
 
