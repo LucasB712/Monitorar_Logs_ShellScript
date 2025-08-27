@@ -33,14 +33,14 @@ Este projeto contém um script em **Bash** para monitoramento e processamento de
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/monitoramento-logs.git
+   git clone https://github.com/LUCASB712/monitoramento-logs.git
    cd monitoramento-logs
    ```
    
    Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/monitoramento-logs.git
+git clone https://github.com/LucasB712/monitoramento-logs.git
 cd monitoramento-logs
 ```
 
