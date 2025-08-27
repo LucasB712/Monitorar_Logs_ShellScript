@@ -37,16 +37,16 @@ Este projeto contém um script em **Bash** para monitoramento e processamento de
 
    Clone o repositório:
 
-bash
-Copiar
+```bash
 git clone https://github.com/SEU_USUARIO/monitoramento-logs.git
 cd monitoramento-logs
+```
+
 Configuração de diretórios: Certifique-se de que o diretório de logs (myapp/logs) exista e contenha arquivos .log para que o script funcione corretamente.
 
 Execute o script: Após garantir que os diretórios estão configurados corretamente, execute o script Bash:
 
 ```bash
-Copiar
 bash monitoramento_logs.sh
 ```
 
